@@ -30,11 +30,24 @@ ________________________
 It is confirmed that the project is a newly built solar power project, located in Brazil in the state
 of Minas Gerais, at Paulo Valias (2.5 MW) in São Gonçalo do Sapucaí, Harmonia I (2.5 MW) &
 Harmonia II (1.5 MW) in Passos, Boa Vista I & II (2.5 MW each) in Carmo Do Paranaíba, and
-Itatiaiuçu (2.0 MW) in Itatiaiuçu. The approximate coordinates of the project locations are São
-Gonçalo do Sapucaí (2.5 MW) 21°53'50.2"S & 45°34'30.7"W. Passos (2.5 MW) 20°40'35.4"S &
-46°35'50.2"W. Passos (1.5 MW) 20°40'26.8"S & 46°35'43.4"W. Carmo Do Paranaíba (2.5 MW)
-18°58'48.7"S & 46°18'29.0"W. Carmo Do Paranaíba (2.5 MW) 18°58'48.8"S & 46°18'37.8"W.
-Itatiaiuçu (2.0 MW) 20°11'26.8"S & 44°25'40.6"W respectively.
+Itatiaiuçu (2.0 MW) in Itatiaiuçu. 
+
+The approximate coordinates of the project locations are:
+______________________
+São Gonçalo do Sapucaí (2.5 MW) 21°53'50.2"S & 45°34'30.7"W. 
+_____________
+Passos (2.5 MW) 20°40'35.4"S &
+46°35'50.2"W. 
+__________________
+Passos (1.5 MW) 20°40'26.8"S & 46°35'43.4"W. 
+_____________________
+Carmo Do Paranaíba (2.5 MW)
+18°58'48.7"S & 46°18'29.0"W. 
+____________________
+Carmo Do Paranaíba (2.5 MW) 18°58'48.8"S & 46°18'37.8"W.
+_________________
+Itatiaiuçu (2.0 MW) 20°11'26.8"S & 44°25'40.6"W 
+________________
 __________
 UCR ISSUE DATE: 26/06/24
 
