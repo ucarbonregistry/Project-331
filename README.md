@@ -51,6 +51,8 @@ ________________
 __________
 UCR ISSUE DATE: 26/06/24
 
+MP-01: 2022-2023
+
 QUANTITY: 8664 CoUs
 ___________
 Serial Number: 0001-000001-001315-UCR-CoU-BR-331-25032022-31122022
@@ -65,3 +67,12 @@ Vintage Year: 2023
 
 Quantity: 7349
 ______________
+ISSUANCE DATE: 12/11/2025
+
+VINTAGE: 2024
+_________________
+Serial Number: 0002-008665-019045-UCR-CoU-BR-331-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 10381
